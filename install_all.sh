@@ -12,4 +12,6 @@ sudo service gluu-server-3.0.2 login
 
 cd /install/community-edition-setup
 
+# look if we can simplify y y y y n n n n prompts
+
 ./setup.py
