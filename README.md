@@ -1,6 +1,8 @@
 # openid_srv_hello_world
 Hello World for installing an OpenID Server (Gluu Server)
 
+If you're ever asked for a <strong>password</strong>: "tototutu"
+
 1. Clone the this GitHub repository
 
 2.
