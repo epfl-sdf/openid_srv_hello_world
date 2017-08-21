@@ -12,8 +12,8 @@ Hello World for installing an OpenID Server (Gluu Server)
 
 3. Answer the following questions, matching your server
 
-Enter IP Address [] : <IP adress> (eg. 128.178.116.76)<br>
-Enter hostname [localhost] : <anything else than localhost> (eg. 128.178.116.76)<br>
+Enter IP Address [] : "<IP adress>" (eg. 128.178.116.76)<br>
+Enter hostname [localhost] : "<anything else than localhost>" (eg. 128.178.116.76)<br>
 Enter your city or locality : (eg. Lausanne, Zurich)<br>
 Enter your state or province two letter code : (eg. VD, ZH)<br>
 Enter two letter Country Code : (eg. CH, DE)<br>
@@ -32,5 +32,5 @@ Install Passport? [No] : no<br>
 Install JCE 1.8? [Yes] : yes<br>
 You must accept the Oracle Binary Code License Agreement for the Java SE Platform Products to download this software. Accept License Agreement? [Yes] : yes<br>
 
-4. You should get the message "Gluu Server installation successful! Point your browser to https://<hostname>"
+4. You should get the message "Gluu Server installation successful! Point your browser to https://"<hostname>""
    You can now open your Gluu server in your browser.
