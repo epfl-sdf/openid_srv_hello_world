@@ -12,7 +12,7 @@ Hello World for installing an OpenID Server (Gluu Server)
 
 3. Answer the following questions, matching your server
 
-Enter IP Address [] : <IP adress> (eg. 128.178.116.76)
+Enter IP Address [] : <IP adress> (eg. 128.178.116.76)<br>
 Enter hostname [localhost] : <anything else than localhost> (eg. 128.178.116.76)
 Enter your city or locality : (eg. Lausanne, Zurich)
 Enter your state or province two letter code : (eg. VD, ZH)
