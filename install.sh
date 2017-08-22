@@ -13,6 +13,9 @@ sudo service gluu-server-3.0.2 start
 
 sudo service gluu-server-3.0.2 login
 
+
+exit
+
 cd /install/community-edition-setup
 ./setup.py
 
