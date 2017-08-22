@@ -7,7 +7,7 @@ Hello World for installing an OpenID Server (Gluu Server)
     cd openid_srv_hello_world
   ```
 
-  <strong>Password</strong> for ubuntu: "tototutu"
+  <strong>Password</strong> for ubuntu: "le password habituel de la sdf"
   
 2. Install and start the server, login
  ```
