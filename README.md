@@ -11,14 +11,14 @@ Hello World for installing an OpenID Server (Gluu Server)
   
 2. Install and start the server, login
  ```
-    sh install.sh
-    sh start.sh
+    ./install.sh
+    ./start.sh
  ```
 
 
 3. Setup
   ```
-    cd /install/community-edition-setup
+    cd /opt/gluu-server-3.0.2/install/community-edition-setup
     ./setup.py
  ```
 
