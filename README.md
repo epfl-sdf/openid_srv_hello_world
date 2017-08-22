@@ -11,6 +11,7 @@ Hello World for installing an OpenID Server (Gluu Server)
     sh install.sh
     sh start.sh
   ```
+  
   Setup
   ```
     cd /install/community-edition-setup
