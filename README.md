@@ -9,12 +9,10 @@ Hello World for installing an OpenID Server (Gluu Server)
   
   
 2. Install and start the server, login
- 
-    sh install.sh
+ ```
+    sh install.sh
     sh start.sh
-  
-  
-  
+ ```
 
   <strong>Password</strong> for ubuntu: "tototutu"
 
