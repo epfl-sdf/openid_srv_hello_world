@@ -12,14 +12,14 @@ Hello World for installing an OpenID Server (Gluu Server)
     sh start.sh
   ```
   
-  Setup
+3. Setup
   ```
     cd /install/community-edition-setup
     ./setup.py
   ```
   <strong>Password</strong> for ubuntu: "tototutu"
 
-3. Answer the following questions, matching your server
+4. Answer the following questions, matching your server
 
 Enter IP Address [] : \<IP adress\><br>
 Enter hostname [localhost] : \<anything else than localhost\> (eg. gluu-server.example)<br>
@@ -41,7 +41,7 @@ Install Passport? [No] : no<br>
 Install JCE 1.8? [Yes] : yes<br>
 You must accept the Oracle Binary Code License Agreement for the Java SE Platform Products to download this software. Accept License Agreement? [Yes] : yes<br>
 
-4. After 5-10min <ou should get the message "Gluu Server installation successful! Point your browser to https://\<hostname\>"
+5. After 5 minutes you should get the message "Gluu Server installation successful! Point your browser to https://\<hostname\>"
    You can now open your Gluu server in your browser.
 
 Consult https://gluu.org/docs/ce/installation-guide/install/ for more information
