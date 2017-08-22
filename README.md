@@ -39,3 +39,5 @@ You must accept the Oracle Binary Code License Agreement for the Java SE Platfor
 
 4. After 5-10min <ou should get the message "Gluu Server installation successful! Point your browser to https://\<hostname\>"
    You can now open your Gluu server in your browser.
+
+Consult https://gluu.org/docs/ce/installation-guide/install/ for more information
