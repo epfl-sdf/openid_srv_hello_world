@@ -10,7 +10,10 @@ Hello World for installing an OpenID Server (Gluu Server)
   ```
     sh install.sh
     sh start.sh
-    cd /install/community-edition-setup
+  ```
+  Setup
+  ```
+    cd /install/community-edition-setup
     ./setup.py
   ```
   <strong>Password</strong> for ubuntu: "tototutu"
