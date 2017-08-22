@@ -6,6 +6,8 @@ Hello World for installing an OpenID Server (Gluu Server)
     git clone git@github.com:epfl-sdf/openid_srv_hello_world.git
     cd openid_srv_hello_world
   ```
+  
+  
 2. Install and start the server
   ```
     sh install.sh
