@@ -18,7 +18,7 @@ Hello World for installing an OpenID Server (Gluu Server)
 
 3. Setup
   ```
-    cd /opt/gluu-server-3.0.2/install/community-edition-setup
+    cd /install/community-edition-setup
     ./setup.py
  ```
 
