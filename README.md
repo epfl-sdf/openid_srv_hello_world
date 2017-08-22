@@ -7,9 +7,8 @@ If you're ever asked for a <strong>password</strong>: "tototutu"
 
 2.
 ```
-  sh install_all.sh
-  cd /install/community-edition-setup
-  ./setup.py
+  sh install.sh
+  sh start.sh
 ```
 
 3. Answer the following questions, matching your server
