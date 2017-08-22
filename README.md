@@ -3,23 +3,23 @@ Hello World for installing an OpenID Server (Gluu Server)
 
 1. Clone the this GitHub repository and cd into the project
   ```
-    git clone git@github.com:epfl-sdf/openid_srv_hello_world.git
-    cd openid_srv_hello_world
+  git clone git@github.com:epfl-sdf/openid_srv_hello_world.git
+  cd openid_srv_hello_world
   ```
 
   <strong>Password</strong> for ubuntu: "le password habituel de la sdf"
   
 2. Install and start the server, login
  ```
-    ./install.sh
+ ./install.sh
  ```
 
 
 3. Setup
   ```
-	sudo service gluu-server-3.0.2 start
-	sudo service gluu-server-3.0.2 login
-	/install/community-edition-setup/setup.py
+sudo service gluu-server-3.0.2 start
+sudo service gluu-server-3.0.2 login
+/install/community-edition-setup/setup.py
  ```
 
 
