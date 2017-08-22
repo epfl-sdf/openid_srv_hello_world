@@ -1,8 +1,6 @@
 # openid_srv_hello_world
 Hello World for installing an OpenID Server (Gluu Server)
 
-If you're ever asked for a <strong>password</strong>: "tototutu"
-
 1. Clone the this GitHub repository and cd into the project
   ```
     git clone git@github.com:epfl-sdf/openid_srv_hello_world.git
@@ -13,6 +11,7 @@ If you're ever asked for a <strong>password</strong>: "tototutu"
     sh install.sh
     sh start.sh
   ```
+  <strong>Password</strong> for ubuntu: "tototutu"
 
 3. Answer the following questions, matching your server
 
