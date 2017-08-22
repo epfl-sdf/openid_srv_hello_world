@@ -21,7 +21,7 @@ Enter two letter Country Code : (eg. CH, DE)<br>
 Enter Organization Name : (eg. sdf)<br>
 Enter email address for support at your organization : (eg. hans.ruedi@gmx.ch)<br>
 Enter maximum RAM for applications in MB [3072] : <br>
-Optional: enter password for oxTrust and LDAP superuser [sgngllAb4sy9] : <br>
+Optional: enter password for oxTrust and LDAP superuser [votre mot de passe] : <br>
 Install oxAuth OAuth2 Authorization Server? [Yes] : yes<br>
 Install oxTrust Admin UI? [Yes] : yes<br>
 Install LDAP Server? [Yes] : yes<br>
