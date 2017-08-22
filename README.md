@@ -37,5 +37,5 @@ Install Passport? [No] : no<br>
 Install JCE 1.8? [Yes] : yes<br>
 You must accept the Oracle Binary Code License Agreement for the Java SE Platform Products to download this software. Accept License Agreement? [Yes] : yes<br>
 
-4. You should get the message "Gluu Server installation successful! Point your browser to https://\<hostname\>"
+4. After 5-10min <ou should get the message "Gluu Server installation successful! Point your browser to https://\<hostname\>"
    You can now open your Gluu server in your browser.
