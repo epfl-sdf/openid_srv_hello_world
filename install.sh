@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #Installation du serveur
 #zf170822.1650
@@ -9,14 +10,5 @@ curl https://repo.gluu.org/ubuntu/gluu-apt.key | sudo apt-key add -
 sudo apt-get update
 sudo apt-get -y install gluu-server-3.0.2
 
-sudo service gluu-server-3.0.2 start
-
-sudo service gluu-server-3.0.2 login
-
-
-exit
-
-cd /install/community-edition-setup
-./setup.py
 
 
