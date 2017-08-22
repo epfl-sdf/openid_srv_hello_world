@@ -16,8 +16,8 @@ If you're ever asked for a <strong>password</strong>: "tototutu"
 
 3. Answer the following questions, matching your server
 
-Enter IP Address [] : \<IP adress\> (eg. 128.178.116.76)<br>
-Enter hostname [localhost] : \<anything else than localhost\> (eg. 128.178.116.76)<br>
+Enter IP Address [] : \<IP adress\><br>
+Enter hostname [localhost] : \<anything else than localhost\> (eg. gluu-server.example)<br>
 Enter your city or locality : (eg. Lausanne, Zurich)<br>
 Enter your state or province two letter code : (eg. VD, ZH)<br>
 Enter two letter Country Code : (eg. CH, DE)<br>
