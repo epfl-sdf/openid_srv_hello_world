@@ -6,7 +6,8 @@ Hello World for installing an OpenID Server (Gluu Server)
     git clone git@github.com:epfl-sdf/openid_srv_hello_world.git
     cd openid_srv_hello_world
   ```
-  
+
+  <strong>Password</strong> for ubuntu: "tototutu"
   
 2. Install and start the server, login
  ```
@@ -21,7 +22,6 @@ Hello World for installing an OpenID Server (Gluu Server)
     ./setup.py
  ```
 
-  <strong>Password</strong> for ubuntu: "tototutu"
 
 4. Answer the following questions, matching your server
 
