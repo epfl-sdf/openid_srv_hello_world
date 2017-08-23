@@ -27,7 +27,7 @@ cd /install/community-edition-setup
 4. Answer the following questions, matching your server
 
 Enter IP Address [] : \<IP adress\><br>
-Enter hostname [localhost] : \<anything else than localhost\> (eg. gluu-server.example)<br>
+Enter hostname [localhost] : \<IP adress\> <br>
 Enter your city or locality : (eg. Lausanne, Zurich)<br>
 Enter your state or province two letter code : (eg. VD, ZH)<br>
 Enter two letter Country Code : (eg. CH, DE)<br>
