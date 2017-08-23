@@ -19,7 +19,8 @@ Hello World for installing an OpenID Server (Gluu Server)
   ```
 sudo service gluu-server-3.0.2 start
 sudo service gluu-server-3.0.2 login
-/install/community-edition-setup/setup.py
+cd /install/community-edition-setup
+./setup.py
  ```
 
 
