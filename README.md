@@ -9,13 +9,13 @@ Hello World for installing an OpenID Server (Gluu Server)
 
   <strong>Password</strong> for ubuntu: "le password habituel de la sdf"
   
-2. Install and start the server, login
+2. Install the server
  ```
  ./install.sh
  ```
 
 
-3. Setup
+3. Manual startup and configuration (don't try to launch the python script without moving to the folder where the script is otherwise it will fail)
   ```
 sudo service gluu-server-3.0.2 start
 sudo service gluu-server-3.0.2 login
