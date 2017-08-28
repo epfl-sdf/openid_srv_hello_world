@@ -24,7 +24,7 @@ cd /install/community-edition-setup
  ```
 
 
-4. Répondez-au questions de la manière suivante pour installer votre propre serveur
+4. Répondez aux questions de la manière suivante pour installer votre propre serveur
 
 Enter IP Address [] : \<IP adress\><br>
 Enter hostname [localhost] : \<IP adress\> <br>
