@@ -7,7 +7,7 @@ Hello World pour installer un serveur OpenID (serveur Gluu).
   cd openid_srv_hello_world
   ```
 
-  <strong>Password</strong> for ubuntu: "le password habituel de la sdf"
+  <strong>Mot de passe</strong> pour ubuntu: "le mot de passe habituel de la sdf"
   
 2. Installer le serveur
  ```
