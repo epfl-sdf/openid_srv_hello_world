@@ -55,4 +55,4 @@ Après 5 minutes, vous devriez recevoir le message suivant: "Gluu Server install
 Vous pouvez maintenant ouvrir votre serveur Gluu dans votre navigateur.
 
 ## Sources<a name="src"></a>
-Consulter https://gluu.org/docs/ce/installation-guide/install/ pour plus d'informations
+Consulter https://gluu.org/docs/ce/installation-guide/install/ pour plus d'informations.
