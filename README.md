@@ -52,7 +52,7 @@ You must accept the Oracle Binary Code License Agreement for the Java SE Platfor
 
 ## Fin<a name="fin"></a>
 Après 5 minutes, vous devriez recevoir le message suivant: "Gluu Server installation successful! Point your browser to https://\<hostname\>"<br>
-Vous pouvez maintenant ouvrir votre serveur Gluu dans votre navigateur.
+Vous pouvez maintenant accéder à votre serveur Gluu depuis votre navigateur.
 
 ## Sources<a name="src"></a>
 Consulter https://gluu.org/docs/ce/installation-guide/install/ pour plus d'informations.
