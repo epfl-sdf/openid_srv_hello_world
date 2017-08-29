@@ -51,7 +51,7 @@ Install JCE 1.8? [Yes] : yes<br>
 You must accept the Oracle Binary Code License Agreement for the Java SE Platform Products to download this software. Accept License Agreement? [Yes] : yes<br>
 
 ## Fin<a name="fin"></a>
-Après 5 minutes, vous devriez recevoir le message suivant: "Gluu Server installation successful! Point your browser to https://\<hostname\>
+Après 5 minutes, vous devriez recevoir le message suivant: "Gluu Server installation successful! Point your browser to https://\<hostname\><br>
 Vous pouvez maintenant ouvrir votre serveur Gluu dans votre navigateur.
 
 ## Sources<a name="src"></a>
