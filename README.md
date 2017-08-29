@@ -1,7 +1,13 @@
 # openid_srv_hello_world
 Hello World pour installer un serveur OpenID (serveur Gluu).
 
-1. Cloner le dépot GitHub se déplacer dans le projet
+1. [Cloner le dépot GitHub se déplacer dans le projet](#clone)
+2. [Installer le serveur](#inst)
+3. [Demarrage et configuration du serveur (manuellement)](#dmg)
+4. [Répondez aux questions de la manière suivante pour installer votre propre serveur](#conf)
+5. [Fin](#fin)
+6. [Sources](#src)
+## Cloner le dépot GitHub se déplacer dans le projet<a name="clone"></a>
   ```
   git clone git@github.com:epfl-sdf/openid_srv_hello_world.git
   cd openid_srv_hello_world
@@ -9,13 +15,12 @@ Hello World pour installer un serveur OpenID (serveur Gluu).
 
   <strong>Mot de passe</strong> pour ubuntu: "le mot de passe habituel de la sdf"
   
-2. Installer le serveur
+## Installer le serveur<a name="inst"></a>
  ```
  ./install.sh
  ```
 
-
-3. Installation manuel du serveur
+## Demarrage et configuration du serveur (manuellement)<a name="dmg"></a>
 ```
 sudo service gluu-server-3.0.2 start
 sudo service gluu-server-3.0.2 login
@@ -23,8 +28,7 @@ cd /install/community-edition-setup
 ./setup.py
  ```
 
-
-4. Répondez aux questions de la manière suivante pour installer votre propre serveur
+## Répondez aux questions de la manière suivante pour installer votre propre serveur<a name="conf"></a>
 
 Enter IP Address [] : \<IP adress\><br>
 Enter hostname [localhost] : \<IP adress\> <br>
@@ -46,7 +50,9 @@ Install Passport? [No] : no<br>
 Install JCE 1.8? [Yes] : yes<br>
 You must accept the Oracle Binary Code License Agreement for the Java SE Platform Products to download this software. Accept License Agreement? [Yes] : yes<br>
 
-5. Après 5 minutes, vous devriez recevoir le message suivant: "Gluu Server installation successful! Point your browser to https://\<hostname\>"
+## Fin<a name="fin"></a>
+Après 5 minutes, vous devriez recevoir le message suivant: "Gluu Server installation successful! Point your browser to https://\<hostname\>"
    Vous pouvez maintenant ouvrir votre serveur Gluu dans votre navigateur.
 
+## Sources<a name="src"></a>
 Consulter https://gluu.org/docs/ce/installation-guide/install/ pour plus d'informations
