@@ -30,8 +30,8 @@ cd /install/community-edition-setup
 
 ## Répondez aux questions de la manière suivante pour installer votre propre serveur<a name="conf"></a>
 
-Enter IP Address [] : \<IP adress\><br>
-Enter hostname [localhost] : \<IP adress\> <br>
+Enter IP Address [] : \<adresse IP\><br>
+Enter hostname [localhost] : \<adresse IP\> <br>
 Enter your city or locality : (ex. Lausanne, Zurich)<br>
 Enter your state or province two letter code : (ex. VD, ZH)<br>
 Enter two letter Country Code : (ex. CH, DE)<br>
